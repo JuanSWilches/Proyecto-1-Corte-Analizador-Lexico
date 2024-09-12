@@ -22,7 +22,7 @@ Extraer el Archivo:
 
 Haz clic derecho en el archivo descargado (Proyecto.rar o Proyecto.zip).
 Selecciona la opción para extraer el contenido.
-Extrae el archivo en una ubicación de tu elección (en este caso extraeremos el archivo en la caperta Descargas). Esto creará una carpeta llamada Proyecto.
+Extrae el archivo en una ubicación de tu elección (en este caso extraeremos el archivo en la carpeta Descargas). Esto creará una carpeta llamada Proyecto.
 Contenido de la Carpeta Proyecto: La carpeta extraída Proyecto contendrá los siguientes archivos:
 
 ProyectoLenguajes.py
