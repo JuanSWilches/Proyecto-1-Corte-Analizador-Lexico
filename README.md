@@ -25,8 +25,8 @@ Selecciona la opción para extraer el contenido.
 Extrae el archivo en una ubicación de tu elección (en este caso extraeremos el archivo en la caperta Descargas). Esto creará una carpeta llamada Proyecto.
 Contenido de la Carpeta Proyecto: La carpeta extraída Proyecto contendrá los siguientes archivos:
 
--ProyectoLenguajes.py
--Texto2.txt
+ProyectoLenguajes.py
+Texto2.txt
 
 
 ### 2. Abre una terminal en Linux
@@ -39,7 +39,7 @@ cd ruta/del/proyecto
 en el paso 1.2 dijimos que usaremos de ejemplo la carpeta Descargas entonces el comando seria el siguiente:
 
 ```bash
-cd Proyectos/Proyecto
+cd Descargas/Proyecto
 ```
 
 
@@ -56,7 +56,7 @@ Usando la terminal, escribiremos el comando:
 ```bash
 nano texto.txt
 ```
-esto permitira abrir una nueva pestaña donde podemos modificar el texto que el analizador léxico debe examinar.
+Esto permitira abrir una nueva pestaña donde podemos modificar el texto que el analizador léxico debe examinar.
 
-tambien podemos modificar el archivo txt desde el directorio donde se almaceno, para este caso fue en Descargas solo seria buscarlo en la carpeta proyecto y dar click para abrir una nueva pestaña y modificar el texto.
+Tambien podemos modificar el archivo txt desde el directorio donde se almaceno, para este caso fue en Descargas solo seria buscarlo en la carpeta proyecto y dar click para abrir una nueva pestaña y modificar el texto.
 
