@@ -12,7 +12,7 @@
 
 ## Instrucciones de uso
 
-### 1. Descargar los archivos ProjectoLenguajes.py y Texto2.txt
+### 1. Descargar el archivos Proyecto
 Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub. Puedes hacerlo desde la carpeta Proyecto.rar o Proyecto.zip (elige el formato que prefieras)
 
 ### 1.2 Extraer archivos 
