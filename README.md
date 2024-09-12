@@ -12,11 +12,17 @@
 
 ## Instrucciones de uso
 
-### 1. Descargar el archivos Proyecto
-Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub. Puedes hacerlo desde la carpeta Proyecto.rar o Proyecto.zip (elige el formato que prefieras) siguiendo estos pasos:
-1. Busca el formato que prefieras .zip o .rar .
-2. Busca el botón que dice **Raw** y haz clic en él (tambien puedes darle al boton descargar cerca del Raw).
-4. Guarda el archivo en tu directorio preferido (por ejemplo, en la carpeta `Descargas`).
+### 1. Descargar el Archivo Proyecto
+
+Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub. Puedes elegir entre los formatos `Proyecto.rar` o `Proyecto.zip`. Sigue estos pasos:
+
+1. Ve a la página del repositorio en GitHub.
+2. Busca el archivo en el formato que prefieras (`.zip` o `.rar`).
+3. Haz clic en el archivo para abrir su vista previa.
+4. Busca y haz clic en el botón **Download** (o **Descargar**) cerca del archivo para iniciar la descarga. Si ves un botón **Raw**, eso no es necesario para archivos comprimidos; usa **Download**.
+
+El archivo se descargará en tu directorio `Descargas` (o `Downloads`).
+
 
 
 ### 1.2 Extraer archivos 
