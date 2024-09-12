@@ -13,7 +13,12 @@
 ## Instrucciones de uso
 
 ### 1. Descargar el archivos Proyecto
-Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub. Puedes hacerlo desde la carpeta Proyecto.rar o Proyecto.zip (elige el formato que prefieras)
+Antes de comenzar, debes descargar los archivos necesarios desde este repositorio de GitHub. Puedes hacerlo desde la carpeta Proyecto.rar o Proyecto.zip (elige el formato que prefieras) siguiendo estos pasos:
+1. Busca el formato que prefieras.
+2. Busca el botón verde que dice **Code** y haz clic en él.
+3. En el menú desplegable, selecciona **Download ZIP** para descargar el archivo en formato ZIP, o encuentra el enlace a **Proyecto.rar** si prefieres el formato RAR.
+4. Guarda el archivo en tu directorio preferido (por ejemplo, en la carpeta `Descargas`).
+
 
 ### 1.2 Extraer archivos 
 Una vez que hayas descargado el archivo Proyecto.rar o Proyecto.zip en la carpeta Descargas, sigue estos pasos:
@@ -58,5 +63,5 @@ nano texto.txt
 ```
 Esto permitira abrir una nueva pestaña donde podemos modificar el texto que el analizador léxico debe examinar.
 
-Tambien podemos modificar el archivo txt desde el directorio donde se almaceno, para este caso fue en Descargas solo seria buscarlo en la carpeta proyecto y dar click para abrir una nueva pestaña y modificar el texto.
+Tambien podemos modificar el archivo txt desde el directorio donde se almaceno, para el caso ejemplo hemos decidido el directorio Descargas, una vez encontremos la carpeta proyecto procederemos a dar click y buscar el archivo "texto.txt", daremos click al archivo y se abrira una nueva pestaña de editor de textos, una vez modifiques no olvides guardar los cambios.
 
