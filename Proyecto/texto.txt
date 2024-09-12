@@ -1,0 +1,10 @@
+1.2
+"hola mundo"
+1,2
+1.222222
+este es un comentario #hola dhdhed
+'hola mundo'
+1 a b c
+ 1 a = 3
+a b c
+
